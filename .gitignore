@@ -5,3 +5,6 @@
 bin/
 build/
 test-output/
+.idea/
+/*.iml
+/local.properties
