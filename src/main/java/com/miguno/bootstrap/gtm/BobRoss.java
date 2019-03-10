@@ -15,7 +15,7 @@ import com.google.common.collect.ImmutableSet.Builder;
  * 
  * "And from all of us here I'd like to wish you happy painting and God bless, my friend."
  */
-public class BobRoss {
+class BobRoss {
 
     private final Set<String> paintingElements;
     private final PrintStream printStream;
