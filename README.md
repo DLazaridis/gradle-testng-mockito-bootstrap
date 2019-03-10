@@ -6,7 +6,7 @@ A ready-to-use bootstrap Java project backed by gradle, TestNG, Mockito, FEST-As
 
 # Software used in the bootstrap project
 
-* [Gradle](http://www.gradle.org/) version 1.9 -- build tool
+* [Gradle](http://www.gradle.org/) version 2.14.1 -- build tool
 * [TestNG](http://testng.org/) version 6.8.x -- unit testing framework
 * [Mockito](http://code.google.com/p/mockito/) version 1.9.x -- mocking framework
 * [FEST-Assert 2](https://github.com/alexruiz/fest-assert-2.x) version 2.0M10 -- fluent interface for assertions that
